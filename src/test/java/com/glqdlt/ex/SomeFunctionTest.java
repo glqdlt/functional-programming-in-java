@@ -34,7 +34,7 @@ public class SomeFunctionTest {
     }
 
     @Test
-    public void 리스트에서() throws Exception {
+    public void 리스트다더하기() throws Exception {
         Assert.assertEquals(233,SomeFunction.sum(fixture));
     }
 }
